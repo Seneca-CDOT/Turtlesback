@@ -1,0 +1,41 @@
+@font-face { font-family: KKKC; src: url('data/King Cool KC.ttf'); }
+
+body, html
+{
+  background-color: #000000;
+  /*height: 100%;*/
+  margin: 0px;
+}
+
+canvas.focus
+{
+  outline: none;
+}
+
+#centerdiv
+{
+  width: 962px;
+  margin: 0px auto;
+}
+
+#canvastext {
+  display: table-cell;
+  background-color: rgb(100,120,255);
+  color: white;
+  text-align: center;
+  font-family: KKKC;
+  font-size: 3em;
+  width: 960px;
+  height: 600px;
+  vertical-align: middle;
+}
+
+#latest {
+  font-family: sans-serif;
+  font-size: 0.2em;
+  margin-bottom: 10em;
+}
+
+video {
+  display: none;
+}
