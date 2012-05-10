@@ -167,6 +167,7 @@ void keyReleased(){
 }
 
 void keyPressed(){
+/*
   if(key == 'e'){
     Localization.setLanguage(en_CA);
     currentScreen.resetScreen();
@@ -177,5 +178,6 @@ void keyPressed(){
     isDebugging = !isDebugging;
     gDebug.setOn(isDebugging);
   }
+*/
   currentScreen.tryKeyPressed(key, keyCode);
 }
