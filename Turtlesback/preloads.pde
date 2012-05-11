@@ -135,17 +135,45 @@
                  data/gifted/mountain/mountain-8.png,
                  data/gifted/mountain/mountain-9.png,
 
-                 data/grounded/Charge_Bar-80x2275.png,
-                 data/grounded/Complete_Turtle_Island.png,
-                 data/grounded/Dancing_680x170.png,
-                 data/grounded/Fantastic_430x100.png,
-                 data/grounded/medicinewheel.png,
-                 data/grounded/medicinewheel_arrows.png,
-                 data/grounded/SkywomanDance.png,
-                 data/grounded/SkywomanIdle.png,
+
+  
                  data/grounded/turtlesback_grounded_bg.png,
-                 data/grounded/WhiteFill_Dance-657x580.png,
+                 data/grounded/medicinewheel.png,
+                 data/grounded/medicinewheel_arrowsyellow.png,
+                 data/grounded/medicinewheel_arrowsblack.png,
+                 data/grounded/medicinewheel_arrowsred.png,
+                 data/grounded/medicinewheel_arrowswhite.png,
                  data/grounded/Turtle Island/pieces/start.png,
+                 data/grounded/SkywomanIdle.png,
+                 data/grounded/poses/colored/static-01.png,
+                 data/grounded/poses/colored/static-02.png,
+                 data/grounded/poses/colored/static-03.png,
+                 data/grounded/poses/colored/static-04.png,
+                 data/grounded/poses/colored/static-05.png,
+                 data/grounded/poses/colored/static-06.png,
+                 data/grounded/poses/colored/static-07.png,
+                 data/grounded/poses/colored/static-08.png,
+                 data/grounded/poses/colored/static-09.png,
+                 data/grounded/poses/colored/static-10.png,
+                 data/grounded/poses/colored/static-11.png,
+                 data/grounded/poses/colored/static-12.png,
+                 data/grounded/poses/silhouette/static-01.png,
+                 data/grounded/poses/silhouette/static-02.png,
+                 data/grounded/poses/silhouette/static-03.png,
+                 data/grounded/poses/silhouette/static-04.png,
+                 data/grounded/poses/silhouette/static-05.png,
+                 data/grounded/poses/silhouette/static-06.png,
+                 data/grounded/poses/silhouette/static-07.png,
+                 data/grounded/poses/silhouette/static-08.png,
+                 data/grounded/poses/silhouette/static-09.png,
+                 data/grounded/poses/silhouette/static-10.png,
+                 data/grounded/poses/silhouette/static-11.png,
+                 data/grounded/poses/silhouette/static-12.png,
+
+                 data/grounded/Fantastic_430x100.png,
+    
+
+  
                  data/grounded/Turtle Island/pieces/brown/piece-01.png,
                  data/grounded/Turtle Island/pieces/brown/piece-02.png,
                  data/grounded/Turtle Island/pieces/brown/piece-03.png,
@@ -167,4 +195,5 @@
                  data/grounded/Turtle Island/pieces/green/piece-09.png,
                  data/grounded/Turtle Island/pieces/green/piece-10.png,
 
-                 data/grounded/Turtle Island/Turtle_Island_11_End.png"; */
+                 data/grounded/Turtle Island/Turtle_Island_11_End.png"; 
+*/
