@@ -9,6 +9,7 @@ class ScreenMainMenu extends Screen {
   int screenid = -1;
   boolean swapout = false;
   PImage backdrop;
+  String loadtext;
 
   ScreenMainMenu(boolean game1locked, boolean game2locked, boolean game3locked, boolean game4locked){
     super("main menu");
@@ -47,7 +48,11 @@ class ScreenMainMenu extends Screen {
       fill(255);
       textAlign(CENTER);
       textSize(48);
-      text("loading...",width/2,height/2);
+      loadtext = "loading";
+      if (javascript!=null && javascript.getLanguage()=="french") {
+        loadtext = "chargement";
+      }      
+      text(loadtext+"...",width/2,height/2);
       swapout = true;
       loop();
       popStyle();
