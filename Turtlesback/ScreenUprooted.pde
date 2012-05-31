@@ -1060,7 +1060,8 @@ class ScreenUprooted extends Screen{
   String getHelpContent() {
     String english = "Collect all the medicines by clicking where Sky woman should fall towards\n"+
            "but be careful! If you hit light green branches, you might lose medicine!";
-    String french = english;
+    String french = "Faites danser la Femme Céleste! Lorsque les flèches s’allument, appuyez dessus\n"+
+           "sur l’écran ou sur les touches de votre clavier.";
     if(javascript!=null && javascript.getLanguage()=="french") return french;
     return english;
   }

@@ -692,7 +692,10 @@ class ScreenGifted extends Screen {
     String english = "Help Muskrat dive to the bottom and collect earth, without getting hit.\n"+
            "Click, or press space bar, to make Muskrat dive. Move Turtle left and right with\n"+
            "the arrow keys on screen or keyboard. Muskrat will always swim back to Turtle.";
-    String french = english;
+    String french = "Aidez Muskrat à plonger au fond de l’océan pour ramasser de la terre,\n"+
+           "sans se faire frapper. Cliquez ou appuyez sur la barre espace pour plonger.\n"+
+           "Orientez Tortue à gauche et à droit avec les touches de direction sur votre\n"+
+           "clavier ou votre écran. Muskrat va toujours retourner à Tortue.";
     if(javascript!=null && javascript.getLanguage()=="french") return french;
     return english;
   }

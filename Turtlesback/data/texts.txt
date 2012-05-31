@@ -1,0 +1,50 @@
+Titles
+
+  Uprooted
+  Déracinés
+
+  Gifted
+  Donné 
+
+  Descent
+  Descente
+
+  Grounded
+  Mise à la terre 
+
+  Loading
+  Chargement
+
+Uprooted:
+
+  Collect all the medicines by clicking where Sky Woman should fall towards, but be careful! If you hit light green branches, you might lose medicine! 
+  Ramassez tous les médicaments en cliquant là où la Femme Céleste devrait tomber, mais soyez prudent! Si vous frappez les branches du grand arbre, vous risquez de perdre les médicaments! 
+
+Descent:
+
+  Help Sky woman reach Turtle by jumping from bird platform to bird platform. The longer you run, the faster you run, so be careful! Click or press space bar to jump.
+  Aidez la Femme Céleste arriver à Tortue la faisant sauter d’estrade d’oiseau à estrade d’oiseau. Plus vous courez, plus vous prenez de la vitesse, alors soyez prudent! Cliquez ou appuyez sur la barre espace pour sauter. 
+
+Gifted:
+
+  Help Muskrat dive to the bottom and collect earth, without getting hit. Click, or press space bar, to make Muskrat dive. Move Turtle left and right with the arrow keys on screen or keyboard. Muskrat will always swim back to Turtle.
+  Aidez Muskrat à plonger au fond de l’océan pour ramasser de la terre, sans se faire frapper. Cliquez ou appuyez sur la barre espace pour plonger. Orientez Tortue à gauche et à droit avec les touches de direction sur votre clavier ou votre écran. Muskrat va toujours retourner à Tortue. 
+
+Grounded:
+
+  Tap the arrows when they light up by clicking on screen or using the arrows on your keyboard, to make Sky woman dance!
+  Faites danser la Femme Céleste! Lorsque les flèches s’allument, appuyez dessus sur l’écran ou sur les touches de votre clavier. 
+
+End screens:
+
+  Great job gathering!
+  Bon travail de rassemblement! 
+  
+  You landed safely on turtle!
+  Vous êtes arrivé à Tortue! 
+
+  You built turtle island!
+  Vous avez construit l’île Tortue! 
+
+  Fancy dancing!
+  Belle danse! 

@@ -35,6 +35,11 @@ function showGame() {
   // get going!
   real.innerHTML = text;
   real.style.display = "block";
+  // make sure the correct language is used on the loading screen
+  if(chosenLanguage==="french") {
+    document.querySelector("#loadtitle").innerHTML = "Chargement";
+  }
+  // start the games
   Processing.init();
 }
 

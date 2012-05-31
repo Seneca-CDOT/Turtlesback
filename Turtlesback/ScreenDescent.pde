@@ -733,7 +733,9 @@ class ScreenDescent extends Screen {
     String english = "Help Sky woman reach Turtle by jumping from bird platform to bird platform.\n"+
            "The longer you run, the faster you run, so be careful!\n"+
            "Click, or press space bar, to jump.";
-    String french = english;
+    String french = "Aidez la Femme Céleste arriver à Tortue la faisant sauter d’estrade d’oiseau à\n"+
+           "estrade d’oiseau. Plus vous courez, plus vous prenez de la vitesse, alors soyez\n"+
+           "prudent! Cliquez ou appuyez sur la barre espace pour sauter.";
     if(javascript!=null && javascript.getLanguage()=="french") return french;
     return english;
   }

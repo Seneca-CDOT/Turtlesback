@@ -455,7 +455,8 @@ class ScreenGrounded extends Screen {
   String getHelpContent() {
     String english = "Tap the arrows in time with the music when they light up, by clicking\n"+
            "on screen or using the arrows on your keyboard, to make Sky woman dance!";
-    String french = english;
+    String french = "Faites danser la Femme Céleste! Lorsque les flèches s’allument, appuyez\n"+
+           "dessus sur l’écran ou sur les touches de votre clavier.";
     if(javascript!=null && javascript.getLanguage()=="french") return french;
     return english;
   }
