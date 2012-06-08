@@ -2,12 +2,22 @@
         font="data/HammersmithOne.ttf";
         preload="data/blankbutton.png,
                  data/turtlesback_bg_titlescreen01.png,
+                 data/turtlesback_bg_titlescreen01-french.png,
 
                  data/general/back.png,
                  data/general/play.png,
                  data/general/pause.png,
                  data/general/mute.png,
                  data/general/nomute.png,
+
+                 data/general/endScreens/descent.png,
+                 data/general/endScreens/gifted.png,
+                 data/general/endScreens/grounded.png,
+                 data/general/endScreens/uprooted.png,
+                 data/general/endScreens/french/descent.png,
+                 data/general/endScreens/french/gifted.png,
+                 data/general/endScreens/french/grounded.png,
+                 data/general/endScreens/french/uprooted.png,
 
                  data/uprooted/Branch-01.png,
                  data/uprooted/Branch-01-cosmetic.png,

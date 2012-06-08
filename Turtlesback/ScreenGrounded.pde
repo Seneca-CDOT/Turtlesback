@@ -135,7 +135,7 @@ class ScreenGrounded extends Screen {
                                    co[i], arrows[i], offsetX[i], offsetY[i],fillco[i],sina,cosa,tbc[i]));
       i++;
     }
-    currentTurtleTile = 10;
+    currentTurtleTile = 0;
     greenTile = true;
     currentHitCount = 0;
     halfRequiredHitCount=5;

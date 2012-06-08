@@ -7,7 +7,7 @@ class ScreenMainMenu extends Screen {
   Screen[] screens = new Screen[5];
   Screen newScreen;
   int screenid = -1;
-  boolean swapout = false;
+  boolean swapout = false, js_set = false;
   PImage backdrop;
   String loadtext;
 
@@ -15,6 +15,7 @@ class ScreenMainMenu extends Screen {
     super("main menu");
 
     backdrop = loadImage("data/turtlesback_bg_titlescreen01.png");
+  
     buttons[0] = new ButtonRectangular(175,411, 165,75, game1locked);
     buttons[1] = new ButtonRectangular(803,411, 165,75, game2locked);
     buttons[2] = new ButtonRectangular(175,538, 165,75, game3locked);
@@ -38,7 +39,14 @@ class ScreenMainMenu extends Screen {
   }
 
   void drawScreen(){
-    
+    if (!js_set && javascript!=null) {
+      if (javascript.getLanguage()=="french") {
+        backdrop = loadImage("data/turtlesback_bg_titlescreen01-french.png");
+      }
+      js_set = true;
+    }  
+
+
     // prepare for building a screen and switching to that.
     if(screenid != -1 && !swapout) {
       pushStyle();
